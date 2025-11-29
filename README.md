@@ -23,6 +23,7 @@ top, ps, jobs, kill
 ```bash
 # 기본 실행
 top
+```
 
 # 종료 시 'q' 키 입력
 
