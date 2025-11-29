@@ -1,5 +1,6 @@
 # opensource-sw-homework
 top, ps, jobs, kill
+
 # 🐧 Linux 프로세스 관리 명령어 조사 (과제 #2)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,8 +26,6 @@ top
 
 # 종료 시 'q' 키 입력
 
----
-
 ## 2. 📸 ps (프로세스 스냅샷 확인)
 
 `ps` 명령어는 명령어를 실행한 **특정 시점**의 프로세스 상태를 스냅샷처럼 **정적으로** 보여줍니다.
@@ -45,6 +44,7 @@ ps aux
 
 # 특정 프로세스(예: python) 검색
 ps -ef | grep python
+
 
 ## 3. 💼 jobs (백그라운드 작업 관리)
 
