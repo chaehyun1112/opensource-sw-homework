@@ -25,7 +25,7 @@ top, ps, jobs, kill
 top
 
 # 종료 시 'q' 키 입력
-'''
+```bash
 
 ## 2. 📸 ps (프로세스 스냅샷 확인)
 
